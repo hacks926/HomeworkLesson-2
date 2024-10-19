@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-print("Тадей")
+print("Tadei")
 
-print("12 років")
+print("12 age")
 
-print("не знаю ну може там гроші всяке таке і словом навчаня ")
-print("ще напевно тому що ну може колись буду робити ноормальні роботи")
+print("idk i think money lesson and idk ")
+print("also i can be programist i think ")
